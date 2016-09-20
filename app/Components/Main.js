@@ -96,8 +96,8 @@ var Main = React.createClass({
 				<div className="row">
 
 					<div className="jumbotron">
-						<h2 className="text-center">Address Finder!</h2>
-						<p className="text-center"><em>Enter a landmark to search for its exact address (ex: "Eiffel Tower").</em></p>
+						<h2 className="text-center">Article Finder!</h2>
+						<p className="text-center"><em>Enter the year of the articles you want to see.</em></p>
 					</div>
 
 					<div className="col-md-6">

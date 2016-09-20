@@ -47,7 +47,7 @@ var Form = React.createClass({
 
 						<form>
 							<div className="form-group">
-								<h4 className=""><strong>Location</strong></h4>
+								<h4 className=""><strong>Year of Article</strong></h4>
 
 								{/*Note how each of the form elements has an id that matches the state. This is not necessary but it is convenient.
 									Also note how each has an onChange event associated with our handleChange event. 
